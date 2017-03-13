@@ -2,7 +2,7 @@
 
 ######Interpreted turtle language with L-system module
 
-![Screenshot](https://github.com/mikadam/Logo-and-Lsystems/screen_shot.png)
+![Screenshot](https://github.com/mikadam/Logo-and-Lsystems/blob/master/screen_shot.png)
 
 
 I wrote this around 2014 to discover how someone might go about writing an interpreted language and seeing how far can I push it without implementing more features. For example although functions don't support returning values  explicitly (and values can't be returned using globals due to scoping) it can be acomplished using the special variables (which I discovered after writing it). Similarly if statments can be implemented using zero length loops
